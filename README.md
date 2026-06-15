@@ -41,6 +41,9 @@ Predictive models like the one developed in this project can assist dealerships 
 
 Understanding the factors that affect vehicle prices can also help dealerships improve inventory planning and provide customers with clearer explanations of how prices are determined.
 
-## Author
+## Google Colab Notebook
+
+View the notebook here:
+https://colab.research.google.com/drive/1-mVxGLzebjGqsZtWOTsvGTUL8mrglcKH?usp=sharing
 
 Letswaletje Michelle Matjie
